@@ -1,0 +1,25 @@
+{
+  "mode": "t2i",
+  "model": "sd15",
+  "repo": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+  "revision": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+  "variant": "fp16",
+  "adapter": null,
+  "scheduler": "dpm",
+  "prompts": [
+    "a photo of an Egyptian Mau cat, silver coat with distinct black spots, green eyes, sitting indoors",
+    "close-up photo of the head of an Egyptian Mau cat, spotted coat, warm light",
+    "a photo of a bronze Egyptian Mau cat curled up on a sofa, spotted coat",
+    "a small Egyptian Mau cat in a living room, full body, spotted silver coat"
+  ],
+  "negative_prompt": "illustration, painting, cartoon, text, watermark, multiple cats, deformed animal, extra limbs",
+  "steps": 30,
+  "guidance": 3.0,
+  "strength": null,
+  "ip_adapter_scale": null,
+  "outpaint_scale": null,
+  "seed": 1000,
+  "size": 512,
+  "sources": [],
+  "skipped_sources": []
+}
