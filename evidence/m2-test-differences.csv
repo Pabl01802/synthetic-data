@@ -1,0 +1,13 @@
+comparison,metric,mean,min,max,seeds_up,seeds_tied,seeds_down
+real - oversample,mau_recall,-0.17333320000000002,-0.266667,-0.033333,0,0,5
+real - oversample,macro_f1,-0.0206034,-0.040801,0.007201,1,0,4
+real - oversample,other_recall,0.0066668000000000005,0.0,0.014286,3,2,0
+real - oversample,bengal_recall,0.0333332,0.0,0.066667,4,1,0
+augment - oversample,mau_recall,-0.0399998,-0.066667,-0.033333,0,0,5
+augment - oversample,macro_f1,0.0005680000000000001,-0.01741,0.014735,3,0,2
+augment - oversample,other_recall,0.007618999999999999,-0.014286,0.028571,3,0,2
+augment - oversample,bengal_recall,-0.0133332,-0.033333,0.0,0,3,2
+base - oversample,mau_recall,0.08666660000000001,-0.033333,0.166667,4,0,1
+base - oversample,macro_f1,0.012290200000000001,-0.017414,0.037871,3,0,2
+base - oversample,other_recall,0.0009523999999999997,-0.014286,0.02381,2,1,2
+base - oversample,bengal_recall,0.026666600000000002,0.0,0.066667,3,2,0

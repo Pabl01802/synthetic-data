@@ -1,0 +1,21 @@
+image,oversample,base,guidance 3,guidance 12,steps 15,one prompt,sdxl-turbo
+Egyptian_Mau_131,0,0,0,0,0,0,0
+Egyptian_Mau_155,0,0,0,0,0,0,0
+Egyptian_Mau_171,0,0,0,1,0,0,0
+Egyptian_Mau_152,1,0,2,0,0,2,1
+Egyptian_Mau_148,2,5,5,5,5,3,3
+Egyptian_Mau_11,1,5,5,4,5,4,4
+Egyptian_Mau_15,0,5,5,5,5,4,4
+Egyptian_Mau_197,5,5,3,5,5,5,4
+Egyptian_Mau_110,5,5,5,5,5,5,4
+Egyptian_Mau_157,3,5,5,5,5,5,5
+Egyptian_Mau_103,5,5,5,5,5,5,5
+Egyptian_Mau_105,5,5,5,5,5,5,5
+Egyptian_Mau_114,5,5,5,5,5,5,5
+Egyptian_Mau_12,5,5,5,5,5,5,5
+Egyptian_Mau_127,5,5,5,5,5,5,5
+Egyptian_Mau_13,5,5,5,5,5,5,5
+Egyptian_Mau_142,5,5,5,5,5,5,5
+Egyptian_Mau_146,5,5,5,5,5,5,5
+Egyptian_Mau_150,5,5,5,5,5,5,5
+Egyptian_Mau_175,5,5,5,5,5,5,5
